@@ -4,9 +4,6 @@
  *
  * Usage: php manifest_update.php manifest.xml <friendly_name>
  *
- * If friendly name is passed, will use that as the friendly name. If not, will use the dirname
- * the manifest file is in.
- *
  * Creates manifest.xml.bak and updates live manifest.xml
  */
 
